@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871603760180",
+    "project_id": "fine-chefs",
+    "storage_bucket": "fine-chefs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871603760180:android:eb0739b4a80d9ba9fd2e61",
+        "android_client_info": {
+          "package_name": "com.example.finechefs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871603760180-2olenl7tm0sl25fqdfubvcfl3420d5er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo70HkPlfakvjiyslN0WX6mh7oS6t-2Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871603760180-2olenl7tm0sl25fqdfubvcfl3420d5er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
